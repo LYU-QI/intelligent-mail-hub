@@ -8,7 +8,7 @@ import { Mail, Settings, Search, BarChart3, Bell, Filter, Archive, Forward, Flag
 import { EmailClassification } from './EmailClassification';
 import { EmailAutoRouting } from './EmailAutoRouting';
 import { EmailSearch } from './EmailSearch';
-import { EmailStatistics } from './EmailStatistics';
+import EmailStatistics from './EmailStatistics';
 import { EmailNotifications } from './EmailNotifications';
 
 const EmailManagement = () => {
